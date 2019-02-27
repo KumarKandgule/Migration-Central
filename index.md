@@ -1,14 +1,3 @@
-<div xmlns:db="http://docbook.org/ns/docbook" id="aws-nav" class="aws-nav-header">
-
-<div class="aws-nav-header-left">
-
-<div class="aws-nav-logo">[![Amazon Web Services](images/aws_logo_105x39.png)](http://aws.amazon.com)</div>
-
-</div>
-
-<div id="aws-nav-header-right" class="aws-nav-header-right">
-
-<div class="aws-nav-cta-button-outer">[Sign In to the Console](https://console.aws.amazon.com/console/home)</div>
 
 <div class="aws-nav-popover-trigger" data-dropdown="aws-nav-dropdown-lang"><select id="languageSelection" onchange="SelectLanguage()"><option value="/de_de/patterns-and-practices/latest/migration/First-Time-User_14386499.html">Deutsch</option> <option value="/en_us/patterns-and-practices/latest/migration/First-Time-User_14386499.html" selected="selected">English</option> <option value="/es_es/patterns-and-practices/latest/migration/First-Time-User_14386499.html">Español</option> <option value="/fr_fr/patterns-and-practices/latest/migration/First-Time-User_14386499.html">Français</option> <option value="/it_it/patterns-and-practices/latest/migration/First-Time-User_14386499.html">Italiano</option> <option value="/ja_jp/patterns-and-practices/latest/migration/First-Time-User_14386499.html">日本語</option> <option value="/ko_kr/patterns-and-practices/latest/migration/First-Time-User_14386499.html">한국어</option> <option value="/pt_br/patterns-and-practices/latest/migration/First-Time-User_14386499.html">Português</option> <option value="/zh_cn/patterns-and-practices/latest/migration/First-Time-User_14386499.html">中文 (简体)</option> <option value="/zh_tw/patterns-and-practices/latest/migration/First-Time-User_14386499.html">中文 (繁體)</option></select></div>
 
