@@ -1,6 +1,6 @@
 
 
-# Migration Central - Internal : First Time User
+# Migration Central : First Time User
 
 Created by Sindhu, PJ, last modified on Mar 12, 2018
 
