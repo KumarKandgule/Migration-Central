@@ -1,68 +1,10 @@
 
-<div class="aws-nav-popover-trigger" data-dropdown="aws-nav-dropdown-lang"><select id="languageSelection" onchange="SelectLanguage()"><option value="/de_de/patterns-and-practices/latest/migration/First-Time-User_14386499.html">Deutsch</option> <option value="/en_us/patterns-and-practices/latest/migration/First-Time-User_14386499.html" selected="selected">English</option> <option value="/es_es/patterns-and-practices/latest/migration/First-Time-User_14386499.html">Español</option> <option value="/fr_fr/patterns-and-practices/latest/migration/First-Time-User_14386499.html">Français</option> <option value="/it_it/patterns-and-practices/latest/migration/First-Time-User_14386499.html">Italiano</option> <option value="/ja_jp/patterns-and-practices/latest/migration/First-Time-User_14386499.html">日本語</option> <option value="/ko_kr/patterns-and-practices/latest/migration/First-Time-User_14386499.html">한국어</option> <option value="/pt_br/patterns-and-practices/latest/migration/First-Time-User_14386499.html">Português</option> <option value="/zh_cn/patterns-and-practices/latest/migration/First-Time-User_14386499.html">中文 (简体)</option> <option value="/zh_tw/patterns-and-practices/latest/migration/First-Time-User_14386499.html">中文 (繁體)</option></select></div>
-
-[](http://www.amazon.com/dp/B078XCC142 "Open Kindle")[](patterns-and-practices-migration.pdf#First-Time-User_14386499 "Open PDF")</div>
-
-</div>
-
-<div id="content-container">
-
-<div id="left-column">
-
-<div id="left-col-header">
-
-<div xmlns:db="http://docbook.org/ns/docbook" id="left-col-top-content">
-
-<div id="service-name">Proserve Patterns and Practices</div>
-
-<div id="guide-info">Migration Central</div>
-
-</div>
-
-<form id="finegrainedSearch" method="get" onsubmit="return searchFormSubmit(this);" action="/search/doc-search.html">
-
-<div id="search-form"><select id="search-select" name="searchPath"><option value="all">Entire Site</option> <option value="AWSMarketplace">AMIs from AWS Marketplace</option> <option value="amis">AMIs from All Sources</option> <option value="articles">Articles & Tutorials</option> <option value="products_and_info">AWS Product Information</option> <option value="case_studies">Case Studies</option> <option value="customerapps">Customer Apps</option> <option value="documentation">Documentation</option> <option value="documentation-product">Documentation - This Product</option> <option value="documentation-guide" selected="selected">Documentation - This Guide</option> <option value="datasets">Public Data Sets</option> <option value="releasenotes">Release Notes</option> <option value="solution_providers">Partners</option> <option value="code">Sample Code & Libraries</option></select>  
-<input id="search-query" name="searchQuery" type="text" placeholder="Search"><input id="search-button" src="images/search-button.png" alt="Go" type="image"></div>
-
-<input type="hidden" name="this_doc_product" id="this_doc_product" value="Proserve Patterns and Practices"><input type="hidden" name="this_doc_guide" id="this_doc_guide" value="Migration Central"><input type="hidden" name="doc_locale" value="en_us"></form>
-
-</div>
-
-</div>
-
-<div id="main-column">
-
-<div id="main">
-
-<div id="main-content">
-
-<div id="main-col-body">
-
-<table summary="Breadcrumbs">
-
-<tbody>
-
-<tr>
-
-<td>
-
-<div class="breadcrumb">[AWS Documentation](/index.html) » [Proserve Patterns and Practices](/patterns-and-practices/index.html) » [Migration Central](index.html) » [Migration Central - Internal : AWS Migration Central - Internal](AWS-Migration-Central---Internal_14385761.html) » <span class="breadcrumb">Migration Central - Internal : First Time User</span></div>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<div id="SEARegionDisclaimer">This prerelease documentation is confidential and is provided under the terms of your nondisclosure agreement with Amazon Web Services (AWS) or other agreement governing your receipt of AWS confidential information.</div>
 
 # Migration Central - Internal : First Time User
 
 Created by Sindhu, PJ, last modified on Mar 12, 2018
 
-Welcome !
+## Welcome !
 
 AWS Migration Central is your gateway to everything Migration - Migration Best Practices, tutorials, How-to's, Tools, migration patterns, Tutorials, use cases, escalations for additional support, and a lot more.
 
