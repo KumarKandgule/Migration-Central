@@ -28,3 +28,7 @@ MRA and work streams within MRP follow the same format to organize content. For 
 <div class="itemizedlist">
 
 *   **Landing page:** This is the second level navigation from the top-right menu. You will find 8 of them under "Readiness and Planning" under Migrations. This page outlines the different sections for work streams - it's basically a teaser into the detailed topics.
+
+# Migration Strategies
+1. stra1
+
